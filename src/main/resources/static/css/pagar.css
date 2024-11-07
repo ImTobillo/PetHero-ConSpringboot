@@ -1,0 +1,61 @@
+.contenedor{
+    background-color: #8A8388;
+    width: 50%;
+    margin: auto;
+    height: auto;
+    border-radius: 10px;
+}
+
+.formulario{
+    height: auto;
+    margin: auto;
+    justify-items: center;
+}
+
+input, label, select{
+    color: black;
+    font-size: 26px;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    border-radius: 10px;
+    outline: none;
+}
+
+input, select{
+    background-color: #EDDBC4;
+    font-family: Arial; 
+    font-size: 15px;
+    padding: 10px;  
+}
+
+option{
+    background-color: #EDDBC4;
+}
+
+div{  
+    width: 80%;
+    margin:1rem;
+    align-self: center;
+    justify-self: center;
+}    
+
+button{
+    font-size: 10px;
+    background-color: #FFB353;
+    border-radius: 10px;
+    width: 90%;
+    height: 50px;
+    border: none;
+    margin:1rem;
+}
+
+button:hover{
+    background-color: #FB6A3D;
+}
+
+h1{
+    font-family: "Dokdo", cursive;
+    color: #ffb353;
+    text-align: center;
+}
